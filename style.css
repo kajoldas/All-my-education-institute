@@ -1,0 +1,55 @@
+body{
+    font-family: 'Roboto Slab', serif; 
+    background-image: url(/chri.jpg);
+   
+
+margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: rgb(255, 115, 0);
+}
+.pink-color{
+    color: crimson;
+
+}
+section{
+    display:flex ;
+    margin-bottom: 150;
+    padding-left: 5%;
+ 
+}
+.haif-width{
+    width: 50%;
+}
+.haif-width{
+    width: 50%;
+}
+p{
+    background-color: rgb(208, 224, 224);
+    background-image: url(/banner.jpg);
+}
+.link-button{
+   text-align: no; 
+   background-image: linear-gradient(red yellow );
+   font-weight: 700;
+   padding: 10px 40px;
+   border-radius: 5%;
+   background-border:red;
+   
+}
+.top-banner{
+    background-image: url(/cornner.jpg);
+    background-repeat: no-repeat;
+}
+.My collage{
+    background-image: url(/bg.jpg);
+    background-position: right;
+
+
+}
+
+
+
+
+    
